@@ -55,6 +55,8 @@ const NEXT_IMAGE_ALLOWED_FILES = [
 	"src/ui/components/nav/components/user-menu/components/user-avatar.tsx",
 	"src/ui/components/account/account-nav.tsx",
 	"src/ui/components/account/order-row.tsx",
+	// Isolated design prototype: local seeded media, explicitly unoptimized (no transformations).
+	"src/ui/components/account/buy-again-demo.tsx",
 	"src/ui/components/cart/cart-drawer.tsx",
 	"src/ui/sections/hero-banner/hero-banner.tsx",
 	"src/ui/sections/logo-strip/logo-strip.tsx",
